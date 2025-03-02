@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-topmail-counter",
+  "description": "A Nuxt 3 module for integrating the Top.Mail.ru counter, allowing seamless tracking of website visitors with minimal configuration",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/indes.d.ts",
+  "homepage": "https://google.com/",
+  "repository": {
+    "url": "https://github.com/lusishoes/nuxt-topmail-counter"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "nuxt",
+    "vue",
+    "counter"
+  ],
+  "author": "lusishoes",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2"
+  }
+}
